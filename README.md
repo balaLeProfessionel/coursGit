@@ -1,0 +1,1 @@
+C'est notre premier cours de gestiion de projet. On fait u oeu de git/github
